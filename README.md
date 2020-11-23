@@ -2,7 +2,7 @@
 <p align="center">Site feito durante a NLW3 da Rocketseat. </p>
 
 <h2>FrontEnd</h2>
-<i class="fab fa-html5"></i>HTML | CSS | JAVASCRIPT
+HTML | CSS | JAVASCRIPT
 
 <h2>BackEnd</h2>
 JAVASCRIPT | SQLITE | NODEJS
