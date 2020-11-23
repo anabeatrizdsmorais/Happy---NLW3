@@ -25,8 +25,8 @@ https://www.linkedin.com/in/anabeatrizdsm/
 https://app.rocketseat.com.br/me/ana-beatriz-morais-1590460830
 
 
+<hr>
 
-
-> Status do Projeto: Concluido :heavy_check_mark:
+<strong>Status do Projeto:</strong> Concluido ✔️
 
 
