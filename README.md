@@ -7,6 +7,8 @@ HTML | CSS | JAVASCRIPT
 <h2>BackEnd</h2>
 JAVASCRIPT | SQLITE | NODEJS
 
+> Status do Projeto: Concluido :heavy_check_mark:
+
 <h3>🔗 Linkedin:</h3> 
 https://www.linkedin.com/in/anabeatrizdsm/
 
