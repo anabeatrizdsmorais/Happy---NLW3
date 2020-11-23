@@ -1,8 +1,8 @@
 <h1 align="center">Site Happy</h1>
-<span align="center">Site feito durante a NLW3 da Rocketseat. </span>
+<p align="center">Site feito durante a NLW3 da Rocketseat. </p>
 
 <h2>FrontEnd</h2>
-HTML | CSS | JAVASCRIPT
+<i class="fab fa-html5"></i>HTML | CSS | JAVASCRIPT
 
 <h2>BackEnd</h2>
 JAVASCRIPT | SQLITE | NODEJS
